@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\דוטנט\\Solid\\Solid.API\\Solid.API.csproj": {}
+    "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.API\\Solid.API.csproj": {}
   },
   "projects": {
-    "E:\\דוטנט\\Solid\\Solid.API\\Solid.API.csproj": {
+    "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.API\\Solid.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\דוטנט\\Solid\\Solid.API\\Solid.API.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.API\\Solid.API.csproj",
         "projectName": "Solid.API",
-        "projectPath": "E:\\דוטנט\\Solid\\Solid.API\\Solid.API.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.API\\Solid.API.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "E:\\דוטנט\\Solid\\Solid.API\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\דוטנט\\Solid\\Solid.Data\\Solid.Data.csproj": {
-                "projectPath": "E:\\דוטנט\\Solid\\Solid.Data\\Solid.Data.csproj"
+              "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Data\\Solid.Data.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Data\\Solid.Data.csproj"
               },
-              "E:\\דוטנט\\Solid\\Solid.Service\\Solid.Service.csproj": {
-                "projectPath": "E:\\דוטנט\\Solid\\Solid.Service\\Solid.Service.csproj"
+              "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Service\\Solid.Service.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Service\\Solid.Service.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "E:\\דוטנט\\Solid\\Solid.Core\\Solid.Core.csproj": {
+    "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Core\\Solid.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\דוטנט\\Solid\\Solid.Core\\Solid.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Core\\Solid.Core.csproj",
         "projectName": "Solid.Core",
-        "projectPath": "E:\\דוטנט\\Solid\\Solid.Core\\Solid.Core.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Core\\Solid.Core.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "E:\\דוטנט\\Solid\\Solid.Core\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "E:\\דוטנט\\Solid\\Solid.Data\\Solid.Data.csproj": {
+    "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Data\\Solid.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\דוטנט\\Solid\\Solid.Data\\Solid.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Data\\Solid.Data.csproj",
         "projectName": "Solid.Data",
-        "projectPath": "E:\\דוטנט\\Solid\\Solid.Data\\Solid.Data.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Data\\Solid.Data.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "E:\\דוטנט\\Solid\\Solid.Data\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,8 +172,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\דוטנט\\Solid\\Solid.Core\\Solid.Core.csproj": {
-                "projectPath": "E:\\דוטנט\\Solid\\Solid.Core\\Solid.Core.csproj"
+              "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Core\\Solid.Core.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Core\\Solid.Core.csproj"
               }
             }
           }
@@ -219,14 +219,14 @@
         }
       }
     },
-    "E:\\דוטנט\\Solid\\Solid.Service\\Solid.Service.csproj": {
+    "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Service\\Solid.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\דוטנט\\Solid\\Solid.Service\\Solid.Service.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Service\\Solid.Service.csproj",
         "projectName": "Solid.Service",
-        "projectPath": "E:\\דוטנט\\Solid\\Solid.Service\\Solid.Service.csproj",
+        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Service\\Solid.Service.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "E:\\דוטנט\\Solid\\Solid.Service\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,8 +247,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\דוטנט\\Solid\\Solid.Core\\Solid.Core.csproj": {
-                "projectPath": "E:\\דוטנט\\Solid\\Solid.Core\\Solid.Core.csproj"
+              "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Core\\Solid.Core.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Core\\Solid.Core.csproj"
               }
             }
           }

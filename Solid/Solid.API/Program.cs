@@ -26,7 +26,7 @@ builder.Services.AddScoped<ITrainingRepository, TrainingRepositories>();
 //builder.Services.AddSingleton<DataContext>();
 builder.Services.AddDbContext<DataContext>();
 
-//לקשרי הגומלין-יחד לרבים
+//לקשרי הגומלין-יחיד לרבים
 builder.Services.AddControllers();
 builder.Services.AddControllers().AddJsonOptions(options =>
 {

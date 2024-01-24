@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tY9Qvib+ZxUVaoUKaI1IK2bCgMn4bgc9f2qhxetsvaXc+U5SVcuutUdLbWxvMKplPX9lQlSiDKkHg9pTkKnx/w==",
+  "dgSpecHash": "dBm8yXtho9r+2fOtfBY+AwCky61ktJRXU7O18FZ2kP0FEdmuGxSYVYzNpjmqsk2qe9rVGWgQpAFlbTHvK5zLDg==",
   "success": true,
-  "projectFilePath": "E:\\דוטנט\\Solid\\Solid.Data\\Solid.Data.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Data\\Solid.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
