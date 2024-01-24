@@ -1,0 +1,135 @@
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+Y:\Groups\Group_4\אברמוביץ חיה\מורות\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+E:\דוטנט\ז טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+E:\דוטנט\ז טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+E:\דוטנט\ז טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+E:\דוטנט\ז טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+E:\דוטנט\ז טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+E:\דוטנט\ז טבת\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\user1\Desktop\ישורון\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+E:\דוטנט\אחרי השינוי-ח טבת\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+E:\דוטנט\ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+E:\דוטנט\ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+E:\דוטנט\ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+E:\דוטנט\ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+E:\דוטנט\ח טבת\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+E:\דוטנט\ח טבת\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+Y:\Groups\Group_4\אוירבך  רבקה\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+E:\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+E:\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+E:\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+E:\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+E:\דוטנט\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll

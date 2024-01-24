@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Solid.Service/1.0.0": {
+        "dependencies": {
+          "Solid.Core": "1.0.0"
+        },
+        "runtime": {
+          "Solid.Service.dll": {}
+        }
+      },
+      "Solid.Core/1.0.0": {
+        "runtime": {
+          "Solid.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solid.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Solid.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
