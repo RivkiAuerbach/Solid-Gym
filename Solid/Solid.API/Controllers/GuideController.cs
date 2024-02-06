@@ -3,6 +3,9 @@ using Solid.Core.Entities;
 using Solid.Core.Services;
 using Solid.Service;
 using Solid.Data;
+using AutoMapper;
+using Solid.Core.DTOs;
+using Solid.API.models;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Solid.API.Controllers
@@ -11,49 +14,72 @@ namespace Solid.API.Controllers
     [ApiController]
     public class GuideController : ControllerBase
     {
-        
+        private readonly IMapper _mapper;
         private readonly IGuideService _guideService;
-        public GuideController(IGuideService guideService)
+        public GuideController(IGuideService guideService, IMapper mapper)
         {
             _guideService = guideService;
+            _mapper = mapper;
         }
         [HttpGet]
-        public IEnumerable<Guide> Get()
+        public ActionResult<IEnumerable<Guide>> Get()
         {
-            //return _dataContext.GuideList;
-            return _guideService.GetAllGuide();
+
+            //return _guideService.GetAllGuide();
+
+            var list = _guideService.GetAllGuide();
+            var listDto = _mapper.Map<IEnumerable<GuideDTO>>(list);
+            return Ok(listDto);
         }
 
         // GET: api/<EventController>
         [HttpGet("{id}")]
         public ActionResult<Guide> Get(int id)
         {
-            
-            if (_guideService.GetIdGuide(id) == null)
-                return NotFound();
-            //return Ok(guid);
-            return _guideService.GetIdGuide(id);
+
+            //if (_guideService.GetIdGuide(id) == null)
+            //    return NotFound();
+            ////return Ok(guid);
+            //return _guideService.GetIdGuide(id);
+
+
+            var guide = _guideService.GetIdGuide(id);
+            var guideDto = _mapper.Map<GuideDTO>(guide);
+            return Ok(guideDto);
         }
 
         // POST api/<EventController>
         [HttpPost]
-        public void Post([FromBody] Guide g)
+        public ActionResult Post([FromBody] GuidePostModel guide)
         {
-            //var maxGuide = _guideService.GetAllGuide().Max(e => e.Id);
-            //g.Id = ++maxGuide;
-            //_guideService.GetAllGuide().Add(g);
-            _guideService.PostGuide(g);
+            //_guideService.PostGuide(g);
+
+           var guideToAdd = _mapper.Map<Guide>(guide); 
+            _guideService.PostGuide(guideToAdd);
+            var guideDto = _mapper.Map<GuideDTO>(guideToAdd);
+            return Ok(guideDto);
         }
 
         // PUT api/<EventController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] Guide g)
+        public ActionResult Put(int id, [FromBody] GuidePostModel guide)
         {
-            //var guid = _guideService.GetAllGuide().Find(e => e.Id == id);
-            //guid.Name = g.Name;
-            //guid.Seniority = g.Seniority;
-            //guid.Address = g.Address;
-            _guideService.PutGuide(g, id);
+
+            //_guideService.PutGuide(g, id);
+
+
+            var existGuide = _guideService.GetIdGuide(id);//שליפת היוזר הקיים
+            if (existGuide is null)//אם לא קיים - להחזיר 404
+            {
+                return NotFound();
+            }
+
+            _mapper.Map(guide, existGuide);//מיפוי הערכים מהפוסט-מודל ליוזר מהטבלה
+
+            _guideService.PutGuide(existGuide, id);//שליחה לעדכון בטבלה
+
+            return Ok(_mapper.Map<GuideDTO>(existGuide));//מיפוי והחזרה לקליינט
+
         }
 
         // DELETE api/<EventController>/5

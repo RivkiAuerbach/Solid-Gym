@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1tQRs4WyBi3vBhfzpKbZFhKBlPgSL5MyhdJ4iffNgyqXLxNfSQm/ni6ApfqpRnYswP4yhNlHe7OqrEJM7DI0dA==",
+  "dgSpecHash": "P29Y479/15IVMQ2fHEo9Enwa50ocO5BV8lKDYAaNZM4FNcmzb/bgjNDpy9lVLejritD8HGrVt0GRq5jxHD2sRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.API\\Solid.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\user1\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.25\\microsoft.entityframeworkcore.6.0.25.nupkg.sha512",

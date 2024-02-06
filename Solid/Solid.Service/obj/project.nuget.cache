@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "9/7+WAFBPjcBmmXIACUXzXUtK9ldOdp+Y4++K+/a/L9q91chdx7PD3yFMBqns6ADoBA8a9l9HKd9RSJpRJ+a6g==",
+  "dgSpecHash": "9Xy/TOjklIvAfXykW+4mIW/91/2se1PmKod6952RB/tCzX2PEebmNwYUGQBkvaYkdibI0opDxSFpeN5vF+axTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\user1\\Desktop\\לימודים שנה ב\\דוטנט\\פרויקט עליו עובדת\\Solid-Gym\\Solid\\Solid.Service\\Solid.Service.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

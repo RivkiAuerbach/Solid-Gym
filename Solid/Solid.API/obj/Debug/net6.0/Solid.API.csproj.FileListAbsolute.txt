@@ -439,3 +439,4 @@ E:\דוטנט\Solid\Solid.API\obj\Debug\net6.0\refint\Solid.API.dll
 E:\דוטנט\Solid\Solid.API\obj\Debug\net6.0\Solid.API.pdb
 E:\דוטנט\Solid\Solid.API\obj\Debug\net6.0\Solid.API.genruntimeconfig.cache
 E:\דוטנט\Solid\Solid.API\obj\Debug\net6.0\ref\Solid.API.dll
+E:\דוטנט\Solid\Solid.API\bin\Debug\net6.0\AutoMapper.dll

@@ -1,3 +1,5 @@
+using Solid.API.Mapping;
+using Solid.Core.Mapping;
 using Solid.Core.Repositories;
 using Solid.Core.Services;
 using Solid.Data;
@@ -24,9 +26,12 @@ builder.Services.AddScoped<ITrainingService, TrainingService>();
 builder.Services.AddScoped<ITrainingRepository, TrainingRepositories>();
 
 //builder.Services.AddSingleton<DataContext>();
+builder.Services.AddAutoMapper(typeof(MappingProfile), typeof(ApiMappingProfile));
+
+
 builder.Services.AddDbContext<DataContext>();
 
-//לקשרי הגומלין-יחיד לרבים
+//לקשרי הגומלין-יחד לרבים
 builder.Services.AddControllers();
 builder.Services.AddControllers().AddJsonOptions(options =>
 {

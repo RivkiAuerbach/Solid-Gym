@@ -4,6 +4,9 @@ using Solid.Core.Entities;
 using Solid.Core.Services;
 using Solid.Service;
 using Solid.Data;
+using AutoMapper;
+using Solid.Core.DTOs;
+using Solid.API.models;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Solid.API.Controllers
@@ -11,50 +14,72 @@ namespace Solid.API.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class TrainingController : ControllerBase
-    {  private readonly ITrainingService _trainingService;
-        public TrainingController(ITrainingService trainingService)
+    {
+        private readonly IMapper _mapper;
+        private readonly ITrainingService _trainingService;
+        public TrainingController(ITrainingService trainingService, IMapper mapper)
         {
             _trainingService = trainingService;
+            _mapper = mapper;
         }
         [HttpGet]
-        public IEnumerable<Training> Get()
+        public ActionResult<IEnumerable<Training>> Get()
         {
-            return _trainingService.GetAllTraining();
+            //return _trainingService.GetAllTraining();
+
+            var list = _trainingService.GetAllTraining();
+            var listDto = _mapper.Map<IEnumerable<StudentDTO>>(list);
+            return Ok(listDto);
         }
 
         // GET: api/<EventController>
         [HttpGet("{id}")]
         public ActionResult<Training> Get(int id)
         {
-            //var train = _trainingService.GetAllTraining().Find(e => e.Id == id);
-            if (_trainingService.GetIdTraining(id) == null)
-                return NotFound();
-            //return Ok(train);
-            return _trainingService.GetIdTraining(id);
+            //if (_trainingService.GetIdTraining(id) == null)
+            //    return NotFound();
+            ////return Ok(train);
+            //return _trainingService.GetIdTraining(id);
+
+
+            var train = _trainingService.GetIdTraining(id);
+            var trainDto = _mapper.Map<TrainingDTO>(train);
+            return Ok(trainDto);
         }
 
 
         // POST api/<EventController>
         [HttpPost]
-        public void Post([FromBody] Training t)
+        public ActionResult Post([FromBody] TrainingPostModel train)
         {
-            //var maxTrain = _trainingService.GetAllTraining().Max(e => e.Id);
-            //t.Id = ++maxTrain;
-            //_trainingService.GetAllTraining().Add(t);
-            _trainingService.PostTraining(t);
+
+            //_trainingService.PostTraining(t);
+
+
+            var trainingToAdd = _mapper.Map<Training>(train);
+            _trainingService.PostTraining(trainingToAdd);
+            var trainingDto = _mapper.Map<TrainingDTO>(trainingToAdd);
+            return Ok(trainingDto);
         }
 
         // PUT api/<EventController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] Training t)
+        public ActionResult Put(int id, [FromBody] TrainingPostModel training)
         {
-            //var train = _trainingService.GetAllTraining().Find(e => e.Id == id);
-            //train.Title = t.Title;
-            //train.Day = t.Day;
-            //train.Hour = t.Hour;
-            //train.Student = t.Student;
-            //train.Guide = t.Guide;
-            _trainingService.PutTraining(t, id);
+            //_trainingService.PutTraining(t, id);
+
+
+            var existTraining = _trainingService.GetIdTraining(id);//שליפת היוזר הקיים
+            if (existTraining is null)//אם לא קיים - להחזיר 404
+            {
+                return NotFound();
+            }
+
+            _mapper.Map(training, existTraining);//מיפוי הערכים מהפוסט-מודל ליוזר מהטבלה
+
+            _trainingService.PutTraining(existTraining, id);//שליחה לעדכון בטבלה
+
+            return Ok(_mapper.Map<TrainingDTO>(existTraining));//מיפוי והחזרה לקליינט
         }
 
         // DELETE api/<EventController>/5
