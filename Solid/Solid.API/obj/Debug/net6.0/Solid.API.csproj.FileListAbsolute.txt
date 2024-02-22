@@ -440,3 +440,13 @@ E:\דוטנט\Solid\Solid.API\obj\Debug\net6.0\Solid.API.pdb
 E:\דוטנט\Solid\Solid.API\obj\Debug\net6.0\Solid.API.genruntimeconfig.cache
 E:\דוטנט\Solid\Solid.API\obj\Debug\net6.0\ref\Solid.API.dll
 E:\דוטנט\Solid\Solid.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\Solid.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\Solid.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\Solid.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\Solid.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\Solid.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\Solid.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\Solid.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\Solid.API.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\refint\Solid.API.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.API\obj\Debug\net6.0\Solid.API.pdb

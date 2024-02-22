@@ -141,3 +141,11 @@ E:\דוטנט\Solid\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
 E:\דוטנט\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
 E:\דוטנט\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
 E:\דוטנט\Solid\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb

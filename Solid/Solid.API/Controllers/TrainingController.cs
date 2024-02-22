@@ -23,12 +23,15 @@ namespace Solid.API.Controllers
             _mapper = mapper;
         }
         [HttpGet]
-        public ActionResult<IEnumerable<Training>> Get()
+        public async Task<ActionResult<IEnumerable<Training>>> Get()
         {
             //return _trainingService.GetAllTraining();
 
-            var list = _trainingService.GetAllTraining();
+            var list =  _trainingService.GetAllTraining();
             var listDto = _mapper.Map<IEnumerable<StudentDTO>>(list);
+
+            await Task.WhenAll(list);
+
             return Ok(listDto);
         }
 
@@ -50,14 +53,14 @@ namespace Solid.API.Controllers
 
         // POST api/<EventController>
         [HttpPost]
-        public ActionResult Post([FromBody] TrainingPostModel train)
+        public async Task<ActionResult> Post([FromBody] TrainingPostModel train)
         {
 
             //_trainingService.PostTraining(t);
 
 
             var trainingToAdd = _mapper.Map<Training>(train);
-            _trainingService.PostTraining(trainingToAdd);
+            await _trainingService.PostTraining(trainingToAdd);
             var trainingDto = _mapper.Map<TrainingDTO>(trainingToAdd);
             return Ok(trainingDto);
         }

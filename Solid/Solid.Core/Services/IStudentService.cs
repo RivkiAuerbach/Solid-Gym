@@ -9,10 +9,10 @@ namespace Solid.Core.Services
 {
     public interface IStudentService
     {
-        IEnumerable<Student> GetAllStudent();
+        Task<IEnumerable<Student>> GetAllStudent();
         Student GetIdStudent(int id);
 
-        void PostStudent(Student s);
+        Task<Student> PostStudent(Student s);
 
         void PutStudent(Student s,int id);
 

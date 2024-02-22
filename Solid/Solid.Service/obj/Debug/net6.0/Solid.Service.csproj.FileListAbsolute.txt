@@ -133,3 +133,18 @@ E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
 E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
 E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
 E:\דוטנט\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll

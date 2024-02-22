@@ -9,9 +9,9 @@ namespace Solid.Core.Repositories
 {
     public interface IStudentRepository
     {
-        IEnumerable<Student> GetListStudent();
+        Task<IEnumerable<Student>> GetListStudentAsync();
         Student GetIdListStudent(int id);
-        void PostListStudent(Student s);
+        Task<Student> PostListStudentAsync(Student s);
         void PutListStudent(Student s, int id);
         void DeleteListStudent(int id);
     }

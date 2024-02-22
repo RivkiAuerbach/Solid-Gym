@@ -17,9 +17,9 @@ namespace Solid.Data.Repositories
             _dataContext = dataContext;
         }
 
-        public IEnumerable<Training> GetListTraining()
+        public async Task<IEnumerable<Training>> GetListTrainingAsync()
         {
-            return _dataContext.TrainingList.Include(u => u.Guide); ;
+            return await _dataContext.TrainingList.Include(u => u.Guide).ToListAsync();
         }
         public Training GetIdListTraining(int id)
         {
@@ -27,10 +27,11 @@ namespace Solid.Data.Repositories
             return train;
 
         }
-        public void PostListTraining(Training t)
+        public async Task<Training> PostListTrainingAsync(Training t)
         {
             _dataContext.TrainingList.Add(t);
-            _dataContext.SaveChanges();
+           await _dataContext.SaveChangesAsync();
+            return t;
         }
         public void PutListTraining(Training t, int id)
         {

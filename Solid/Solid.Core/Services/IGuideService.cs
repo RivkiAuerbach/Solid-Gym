@@ -10,11 +10,11 @@ namespace Solid.Core.Services
 {
     public interface IGuideService
     {
-        IEnumerable<Guide> GetAllGuide();
+       Task<IEnumerable<Guide>> GetAllGuide();
 
         Guide GetIdGuide(int id);
 
-        void PostGuide(Guide g);
+        Task<Guide> PostGuide(Guide g);
 
         void PutGuide(Guide g,int id);
 

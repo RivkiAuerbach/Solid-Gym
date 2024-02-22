@@ -9,9 +9,9 @@ namespace Solid.Core.Repositories
 {
     public interface IGuideRepository
     {
-        IEnumerable<Guide> GetListGuide();
+        Task<IEnumerable<Guide>> GetListGuideAsync();
         Guide GetIdListGuide(int id);
-        void PostListGuide(Guide g);
+        Task<Guide> PostListGuideAsync(Guide g);
         void PutListGuide(Guide g, int id);
         void DeleteListGuide(int id);
        

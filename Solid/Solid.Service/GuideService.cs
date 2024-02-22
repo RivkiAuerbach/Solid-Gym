@@ -16,19 +16,19 @@ namespace Solid.Service
         {
             _guideRepository = guideRepository;
         }
-        public IEnumerable<Guide> GetAllGuide()
+        public async Task<IEnumerable<Guide>> GetAllGuide()
         {
            // צריך לכתוב לוגיקה עסקית
-                return _guideRepository.GetListGuide();
+                return await _guideRepository.GetListGuideAsync();
         }
         public Guide GetIdGuide(int id)
         {
             // צריך לכתוב לוגיקה עסקית
             return _guideRepository.GetIdListGuide(id);
         }
-        public void PostGuide(Guide g)
+        public async Task<Guide> PostGuide(Guide g)
         {
-             _guideRepository.PostListGuide(g);
+           return await _guideRepository.PostListGuideAsync(g);
         }
         public void PutGuide(Guide g,int id)
         {

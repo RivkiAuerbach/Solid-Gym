@@ -22,13 +22,16 @@ namespace Solid.API.Controllers
             _mapper = mapper;
         }
         [HttpGet]
-        public ActionResult<IEnumerable<Guide>> Get()
+        public async Task<ActionResult<IEnumerable<Guide>>> Get()
         {
 
             //return _guideService.GetAllGuide();
 
             var list = _guideService.GetAllGuide();
             var listDto = _mapper.Map<IEnumerable<GuideDTO>>(list);
+
+            await Task.WhenAll(list);
+
             return Ok(listDto);
         }
 
@@ -50,14 +53,14 @@ namespace Solid.API.Controllers
 
         // POST api/<EventController>
         [HttpPost]
-        public ActionResult Post([FromBody] GuidePostModel guide)
+        public async Task<ActionResult> Post([FromBody] GuidePostModel guide)
         {
             //_guideService.PostGuide(g);
 
            var guideToAdd = _mapper.Map<Guide>(guide); 
-            _guideService.PostGuide(guideToAdd);
-            var guideDto = _mapper.Map<GuideDTO>(guideToAdd);
-            return Ok(guideDto);
+           await  _guideService.PostGuide(guideToAdd);
+           var guideDto = _mapper.Map<GuideDTO>(guideToAdd);
+           return Ok(guideDto);
         }
 
         // PUT api/<EventController>/5

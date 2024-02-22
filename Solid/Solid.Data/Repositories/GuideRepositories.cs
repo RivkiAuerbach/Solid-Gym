@@ -1,4 +1,5 @@
-﻿using Solid.Core.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Solid.Core.Entities;
 using Solid.Core.Repositories;
 using System;
 using System.Collections.Generic;
@@ -16,9 +17,9 @@ namespace Solid.Data.Repositories
             _dataContext = dataContext;
         }
 
-        public IEnumerable<Guide> GetListGuide()
+        public async Task<IEnumerable<Guide>> GetListGuideAsync()
         {
-            return _dataContext.GuideList;
+            return await _dataContext.GuideList.ToListAsync();
         }
         public Guide GetIdListGuide(int id)
         {
@@ -26,10 +27,11 @@ namespace Solid.Data.Repositories
             return guid;
              
         }
-        public void PostListGuide(Guide g)
+        public async Task<Guide> PostListGuideAsync(Guide g)
         {
             _dataContext.GuideList.Add(g);
-            _dataContext.SaveChanges();
+            await _dataContext.SaveChangesAsync();
+            return g;
 
         }
         public void PutListGuide(Guide g,int id)

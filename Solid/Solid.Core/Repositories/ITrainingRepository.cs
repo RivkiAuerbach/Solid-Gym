@@ -9,9 +9,9 @@ namespace Solid.Core.Repositories
 {
     public interface ITrainingRepository
     {
-        IEnumerable<Training> GetListTraining();
+        Task<IEnumerable<Training>> GetListTrainingAsync();
         Training GetIdListTraining(int id);
-        void PostListTraining(Training t);
+        Task<Training> PostListTrainingAsync(Training t);
         void PutListTraining(Training t, int id);
         void DeleteListTraining(int id);
     }

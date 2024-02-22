@@ -17,19 +17,19 @@ namespace Solid.Service
             _studentRepository = studentRepository;
         }
 
-        public IEnumerable<Student> GetAllStudent()
+        public async Task<IEnumerable<Student>> GetAllStudent()
         {
             //צריך לכתוב לוגיקה עסקית
-                return _studentRepository.GetListStudent();
+                return await _studentRepository.GetListStudentAsync();
         }
         public Student GetIdStudent(int id)
         {
             // צריך לכתוב לוגיקה עסקית
             return _studentRepository.GetIdListStudent(id);
         }
-        public void PostStudent(Student s)
+        public async Task<Student> PostStudent(Student s)
         {
-            _studentRepository.PostListStudent(s);
+           return await _studentRepository.PostListStudentAsync(s);
         }
         public void PutStudent(Student s, int id)
         {

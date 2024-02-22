@@ -1,4 +1,5 @@
-﻿using Solid.Core.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Solid.Core.Entities;
 using Solid.Core.Repositories;
 using System;
 using System.Collections.Generic;
@@ -16,9 +17,9 @@ namespace Solid.Data.Repositories
             _dataContext = dataContext;
         }
 
-        public IEnumerable<Student> GetListStudent()
+        public async Task<IEnumerable<Student>> GetListStudentAsync()
         {
-            return _dataContext.StudentList; 
+            return await _dataContext.StudentList.ToListAsync(); 
         }
         public Student GetIdListStudent(int id)
         {
@@ -26,10 +27,11 @@ namespace Solid.Data.Repositories
             return stud;
 
         }
-        public void PostListStudent(Student s)
+        public  async Task<Student> PostListStudentAsync(Student s)
         {
             _dataContext.StudentList.Add(s);
-            _dataContext.SaveChanges();
+           await _dataContext.SaveChangesAsync();
+            return s;
         }
         public void PutListStudent(Student s, int id)
         {

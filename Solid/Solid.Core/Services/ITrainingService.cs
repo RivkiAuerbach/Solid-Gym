@@ -9,10 +9,10 @@ namespace Solid.Core.Services
 {
     public interface ITrainingService
     {
-        IEnumerable<Training> GetAllTraining();
+        Task<IEnumerable<Training>> GetAllTraining();
         Training GetIdTraining(int id);
 
-        void PostTraining(Training t);
+        Task<Training> PostTraining(Training t);
 
         void PutTraining(Training t,int id);
 

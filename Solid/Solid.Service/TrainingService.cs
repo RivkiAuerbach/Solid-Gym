@@ -16,19 +16,19 @@ namespace Solid.Service
             _trainingRepository = trainingRepository;
         }
 
-        public IEnumerable<Training> GetAllTraining()
+        public async Task<IEnumerable<Training>> GetAllTraining()
         {
             //צריך לכתוב לוגיקה עסקית
-              return _trainingRepository.GetListTraining();
+              return await _trainingRepository.GetListTrainingAsync();
         }
         public Training GetIdTraining(int id)
         {
             // צריך לכתוב לוגיקה עסקית
             return _trainingRepository.GetIdListTraining(id);
         }
-        public void PostTraining(Training t)
+        public async Task<Training> PostTraining(Training t)
         {
-            _trainingRepository.PostListTraining(t);
+           return await _trainingRepository.PostListTrainingAsync(t);
         }
         public void PutTraining(Training t, int id)
         {
