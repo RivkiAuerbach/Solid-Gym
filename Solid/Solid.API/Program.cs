@@ -1,4 +1,5 @@
 using Solid.API.Mapping;
+using Solid.API.Middlewars;
 using Solid.Core.Mapping;
 using Solid.Core.Repositories;
 using Solid.Core.Services;
@@ -54,6 +55,9 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
+app.UseTrack();
+
 app.MapControllers();
+
 
 app.Run();
