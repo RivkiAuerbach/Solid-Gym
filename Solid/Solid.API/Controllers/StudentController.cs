@@ -7,12 +7,14 @@ using AutoMapper;
 using Solid.Core.DTOs;
 using System;
 using Solid.API.models;
+using Microsoft.AspNetCore.Authorization;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Solid.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class StudentController : ControllerBase
     {
         private readonly IMapper _mapper;
