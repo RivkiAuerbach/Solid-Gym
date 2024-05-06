@@ -118,3 +118,4 @@ C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו
 C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
 C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
 C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.sourcelink.json

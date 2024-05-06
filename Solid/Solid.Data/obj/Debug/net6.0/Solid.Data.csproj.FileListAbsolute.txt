@@ -149,3 +149,13 @@ C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו
 C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
 C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
 C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.sourcelink.json
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.Up2Date
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים שנה ב\דוטנט\פרויקט עליו עובדת\Solid-Gym\Solid\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll

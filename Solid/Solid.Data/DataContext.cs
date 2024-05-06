@@ -33,7 +33,7 @@ namespace Solid.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\ProjectModels;Database=sample2_db");
+            optionsBuilder.UseSqlServer("Server=(localdb)\\ProjectModels;Database=Gym_db");
         }
 
     }

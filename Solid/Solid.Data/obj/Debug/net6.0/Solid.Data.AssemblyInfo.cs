@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solid.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b19c8221092216333dc59e784420e3419ddb9b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solid.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solid.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

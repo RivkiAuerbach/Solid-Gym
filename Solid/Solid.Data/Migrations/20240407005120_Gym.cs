@@ -4,7 +4,7 @@
 
 namespace Solid.Data.Migrations
 {
-    public partial class DBsolid : Migration
+    public partial class Gym : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -21,6 +21,21 @@ namespace Solid.Data.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_GuideList", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "StudentList",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Address = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Age = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_StudentList", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -46,30 +61,33 @@ namespace Solid.Data.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "StudentList",
+                name: "StudentTraining",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Address = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Age = table.Column<int>(type: "int", nullable: false),
-                    TrainingId = table.Column<int>(type: "int", nullable: true)
+                    StudentId = table.Column<int>(type: "int", nullable: false),
+                    trainingId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_StudentList", x => x.Id);
+                    table.PrimaryKey("PK_StudentTraining", x => new { x.StudentId, x.trainingId });
                     table.ForeignKey(
-                        name: "FK_StudentList_TrainingList_TrainingId",
-                        column: x => x.TrainingId,
+                        name: "FK_StudentTraining_StudentList_StudentId",
+                        column: x => x.StudentId,
+                        principalTable: "StudentList",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_StudentTraining_TrainingList_trainingId",
+                        column: x => x.trainingId,
                         principalTable: "TrainingList",
-                        principalColumn: "Id");
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_StudentList_TrainingId",
-                table: "StudentList",
-                column: "TrainingId");
+                name: "IX_StudentTraining_trainingId",
+                table: "StudentTraining",
+                column: "trainingId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_TrainingList_GuideId",
@@ -79,6 +97,9 @@ namespace Solid.Data.Migrations
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "StudentTraining");
+
             migrationBuilder.DropTable(
                 name: "StudentList");
 
