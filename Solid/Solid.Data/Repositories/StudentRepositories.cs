@@ -32,6 +32,7 @@ namespace Solid.Data.Repositories
             _dataContext.StudentList.Add(s);
            await _dataContext.SaveChangesAsync();
             return s;
+
         }
         public void PutListStudent(Student s, int id)
         {

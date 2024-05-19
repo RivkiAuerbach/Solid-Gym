@@ -9,8 +9,8 @@ namespace Solid.API.Mapping
         public ApiMappingProfile()
         {
             CreateMap<GuidePostModel, Guide>();
-            CreateMap<StudentPostModel, Guide>();
-            CreateMap<TrainingPostModel, Guide>();
+            CreateMap<StudentPostModel, Student>();
+            CreateMap<TrainingPostModel, Training>();
 
         }
     }

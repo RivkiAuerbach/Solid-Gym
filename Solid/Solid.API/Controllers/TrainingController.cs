@@ -7,6 +7,8 @@ using Solid.Data;
 using AutoMapper;
 using Solid.Core.DTOs;
 using Solid.API.models;
+using System;
+using Microsoft.AspNetCore.Authorization;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Solid.API.Controllers
@@ -27,10 +29,9 @@ namespace Solid.API.Controllers
         {
             //return _trainingService.GetAllTraining();
 
-            var list =  _trainingService.GetAllTraining();
-            var listDto = _mapper.Map<IEnumerable<StudentDTO>>(list);
+            var list = await _trainingService.GetAllTraining();
+            var listDto = _mapper.Map<IEnumerable<TrainingDTO>>(list);
 
-            await Task.WhenAll(list);
 
             return Ok(listDto);
         }
@@ -63,6 +64,7 @@ namespace Solid.API.Controllers
             await _trainingService.PostTraining(trainingToAdd);
             var trainingDto = _mapper.Map<TrainingDTO>(trainingToAdd);
             return Ok(trainingDto);
+
         }
 
         // PUT api/<EventController>/5

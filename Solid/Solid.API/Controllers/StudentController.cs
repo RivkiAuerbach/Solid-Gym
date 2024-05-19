@@ -30,10 +30,8 @@ namespace Solid.API.Controllers
 
                 //return _studentService.GetAllStudent();
 
-                var list =  _studentService.GetAllStudent();
+                var list = await _studentService.GetAllStudent();
                 var listDto = _mapper.Map<IEnumerable<StudentDTO>>(list);
-
-                await Task.WhenAll(list);
 
                return Ok(listDto);
           }
@@ -50,7 +48,7 @@ namespace Solid.API.Controllers
 
 
             var stud = _studentService.GetIdStudent(id);
-            var studDto = _mapper.Map<GuideDTO>(stud);
+            var studDto = _mapper.Map<StudentDTO>(stud);
             return Ok(studDto);
         }
 
@@ -62,8 +60,11 @@ namespace Solid.API.Controllers
 
             var studentToAdd = _mapper.Map<Student>(stud);
             await  _studentService.PostStudent(studentToAdd);
-            var studentDto = _mapper.Map<GuideDTO>(studentToAdd);
+            var studentDto = _mapper.Map<StudentDTO>(studentToAdd);
             return Ok(studentDto);
+
+
+
         }
 
         // PUT api/<EventController>/5

@@ -29,10 +29,10 @@ namespace Solid.API.Controllers
 
             //return _guideService.GetAllGuide();
 
-            var list = _guideService.GetAllGuide();
+            var list = await _guideService.GetAllGuide();
             var listDto = _mapper.Map<IEnumerable<GuideDTO>>(list);
 
-            await Task.WhenAll(list);
+          
 
             return Ok(listDto);
         }

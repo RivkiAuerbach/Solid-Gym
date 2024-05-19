@@ -3,24 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\solid-gym\\solid\\solid.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\models\\trainingpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\models\\trainingpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\entities\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\models\\guidepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\models\\guidepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\models\\studentpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\models\\studentpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.data\\repositories\\trainingrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\trainingrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.data\\repositories\\studentrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\studentrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\mapping\\apimappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\mapping\\apimappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.service\\trainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|solutionrelative:solid.service\\trainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\services\\itrainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\services\\itrainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\repositories\\itrainingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\itrainingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\dtos\\trainingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\trainingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.service\\guideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|solutionrelative:solid.service\\guideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\dtos\\guidedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\guidedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\middlewars\\shabbatmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\middlewars\\shabbatmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\services\\iguideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\services\\iguideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\repositories\\iguiderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\iguiderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|solutionrelative:solid.service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.data\\idatacontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\idatacontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\solid-gym\\solid\\solid.data\\repositories\\guiderepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\guiderepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\entities\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,108 +131,8 @@
       "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\entities\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.data\\repositories\\guiderepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\guiderepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\models\\trainingpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\models\\trainingpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\models\\guidepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\models\\guidepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\models\\studentpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\models\\studentpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\services\\iguideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\services\\iguideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\services\\itrainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\services\\itrainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.service\\trainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|solutionrelative:solid.service\\trainingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|solutionrelative:solid.service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.service\\guideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAE4E361-89FE-49E5-8DAA-D06917C4134A}|Solid.Service\\Solid.Service.csproj|solutionrelative:solid.service\\guideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.data\\repositories\\trainingrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\trainingrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\repositories\\itrainingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\itrainingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.data\\repositories\\studentrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\studentrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\repositories\\iguiderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\iguiderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.data\\idatacontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADDE430D-6DAD-41CC-AACB-DB0C739BAEBF}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\idatacontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\dtos\\guidedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\guidedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\mapping\\apimappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|solutionrelative:solid.api\\mapping\\apimappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\dtos\\trainingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\trainingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378D01B2-3AC6-4075-B77F-03339A3E1942}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:1:0:{7302474F-2D76-4BC7-BEB1-C1D7058E4EFF}|Solid.API\\Solid.API.csproj|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\solid.api\\solid.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -175,12 +175,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TrainingPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\TrainingPostModel.cs",
+              "RelativeDocumentMoniker": "Solid.API\\models\\TrainingPostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\TrainingPostModel.cs",
+              "RelativeToolTip": "Solid.API\\models\\TrainingPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\StudentPostModel.cs",
+              "RelativeDocumentMoniker": "Solid.API\\models\\StudentPostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\StudentPostModel.cs",
+              "RelativeToolTip": "Solid.API\\models\\StudentPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrainingRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\TrainingRepositories.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\TrainingRepositories.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\TrainingRepositories.cs",
+              "RelativeToolTip": "Solid.Data\\Repositories\\TrainingRepositories.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Program.cs",
               "RelativeDocumentMoniker": "Solid.API\\Program.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Program.cs",
               "RelativeToolTip": "Solid.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAaAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-06T17:01:03.122Z",
               "EditorCaption": ""
@@ -188,78 +227,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Training.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Training.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Training.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Training.cs",
-              "RelativeToolTip": "Solid.Core\\Entities\\Training.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "Solid.API\\Controllers\\TrainingController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "Solid.API\\Controllers\\TrainingController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Guide.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Guide.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Guide.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Guide.cs",
-              "RelativeToolTip": "Solid.Core\\Entities\\Guide.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Student.cs",
-              "RelativeToolTip": "Solid.Core\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\DataContext.cs",
-              "RelativeToolTip": "Solid.Data\\DataContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCMAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShabbatMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Middlewars\\ShabbatMiddleware.cs",
-              "RelativeDocumentMoniker": "Solid.API\\Middlewars\\ShabbatMiddleware.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Middlewars\\ShabbatMiddleware.cs",
-              "RelativeToolTip": "Solid.API\\Middlewars\\ShabbatMiddleware.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwBIAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T14:50:22.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GuideRepositories.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\GuideRepositories.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\GuideRepositories.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\GuideRepositories.cs",
-              "RelativeToolTip": "Solid.Data\\Repositories\\GuideRepositories.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAewDMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.113Z"
+              "WhenOpened": "2024-02-06T17:01:03.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GuidePostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\GuidePostModel.cs",
+              "RelativeDocumentMoniker": "Solid.API\\models\\GuidePostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\GuidePostModel.cs",
+              "RelativeToolTip": "Solid.API\\models\\GuidePostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Solid.API\\models\\LoginModel.cs",
@@ -273,15 +266,324 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Guide.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Guide.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Guide.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Guide.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Guide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\StudentRepositories.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\StudentRepositories.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\StudentRepositories.cs",
+              "RelativeToolTip": "Solid.Data\\Repositories\\StudentRepositories.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Mapping\\ApiMappingProfile.cs",
+              "RelativeDocumentMoniker": "Solid.API\\Mapping\\ApiMappingProfile.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Mapping\\ApiMappingProfile.cs",
+              "RelativeToolTip": "Solid.API\\Mapping\\ApiMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Solid.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Solid.API\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrainingService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\TrainingService.cs",
+              "RelativeDocumentMoniker": "Solid.Service\\TrainingService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\TrainingService.cs",
+              "RelativeToolTip": "Solid.Service\\TrainingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\DataContext.cs",
+              "RelativeToolTip": "Solid.Data\\DataContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITrainingService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\ITrainingService.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Services\\ITrainingService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\ITrainingService.cs",
+              "RelativeToolTip": "Solid.Core\\Services\\ITrainingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITrainingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\ITrainingRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Repositories\\ITrainingRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\ITrainingRepository.cs",
+              "RelativeToolTip": "Solid.Core\\Repositories\\ITrainingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Solid.Core\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrainingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\TrainingDTO.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\TrainingDTO.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\TrainingDTO.cs",
+              "RelativeToolTip": "Solid.Core\\DTOs\\TrainingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GuideController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\GuideController.cs",
+              "RelativeDocumentMoniker": "Solid.API\\Controllers\\GuideController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\GuideController.cs",
+              "RelativeToolTip": "Solid.API\\Controllers\\GuideController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GuideService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\GuideService.cs",
+              "RelativeDocumentMoniker": "Solid.Service\\GuideService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\GuideService.cs",
+              "RelativeToolTip": "Solid.Service\\GuideService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Solid.Core\\DTOs\\StudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GuideDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\GuideDTO.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\GuideDTO.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\GuideDTO.cs",
+              "RelativeToolTip": "Solid.Core\\DTOs\\GuideDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShabbatMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Middlewars\\ShabbatMiddleware.cs",
+              "RelativeDocumentMoniker": "Solid.API\\Middlewars\\ShabbatMiddleware.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Middlewars\\ShabbatMiddleware.cs",
+              "RelativeToolTip": "Solid.API\\Middlewars\\ShabbatMiddleware.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:50:22.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Solid.Core\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGuideService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\IGuideService.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Services\\IGuideService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\IGuideService.cs",
+              "RelativeToolTip": "Solid.Core\\Services\\IGuideService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Solid.Core\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGuideRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\IGuideRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IGuideRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\IGuideRepository.cs",
+              "RelativeToolTip": "Solid.Core\\Repositories\\IGuideRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Solid.Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\StudentService.cs",
+              "RelativeToolTip": "Solid.Service\\StudentService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDataContextcs.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\IDataContextcs.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\IDataContextcs.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\IDataContextcs.cs",
+              "RelativeToolTip": "Solid.Data\\IDataContextcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GuideRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\GuideRepositories.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\GuideRepositories.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\GuideRepositories.cs",
+              "RelativeToolTip": "Solid.Data\\Repositories\\GuideRepositories.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Solid.API\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Solid.API\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAAAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T17:57:47.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T17:57:47.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Student.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Training.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Training.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Entities\\Training.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Training.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:01:03.128Z"
             },
             {
               "$type": "Document",
@@ -297,79 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TrainingPostModel.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\TrainingPostModel.cs",
-              "RelativeDocumentMoniker": "Solid.API\\models\\TrainingPostModel.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\TrainingPostModel.cs",
-              "RelativeToolTip": "Solid.API\\models\\TrainingPostModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GuidePostModel.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\GuidePostModel.cs",
-              "RelativeDocumentMoniker": "Solid.API\\models\\GuidePostModel.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\GuidePostModel.cs",
-              "RelativeToolTip": "Solid.API\\models\\GuidePostModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TrainingController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\TrainingController.cs",
-              "RelativeDocumentMoniker": "Solid.API\\Controllers\\TrainingController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\TrainingController.cs",
-              "RelativeToolTip": "Solid.API\\Controllers\\TrainingController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAowCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Solid.API\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Solid.API\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAxwBAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GuideController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\GuideController.cs",
-              "RelativeDocumentMoniker": "Solid.API\\Controllers\\GuideController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Controllers\\GuideController.cs",
-              "RelativeToolTip": "Solid.API\\Controllers\\GuideController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAowA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StudentPostModel.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\StudentPostModel.cs",
-              "RelativeDocumentMoniker": "Solid.API\\models\\StudentPostModel.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\models\\StudentPostModel.cs",
-              "RelativeToolTip": "Solid.API\\models\\StudentPostModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\appsettings.json",
               "RelativeDocumentMoniker": "Solid.API\\appsettings.json",
@@ -378,210 +608,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-14T17:44:14.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\IStudentService.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Services\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\IStudentService.cs",
-              "RelativeToolTip": "Solid.Core\\Services\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ITrainingService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\ITrainingService.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Services\\ITrainingService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\ITrainingService.cs",
-              "RelativeToolTip": "Solid.Core\\Services\\ITrainingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IGuideService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\IGuideService.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Services\\IGuideService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Services\\IGuideService.cs",
-              "RelativeToolTip": "Solid.Core\\Services\\IGuideService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TrainingService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\TrainingService.cs",
-              "RelativeDocumentMoniker": "Solid.Service\\TrainingService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\TrainingService.cs",
-              "RelativeToolTip": "Solid.Service\\TrainingService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\StudentService.cs",
-              "RelativeDocumentMoniker": "Solid.Service\\StudentService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\StudentService.cs",
-              "RelativeToolTip": "Solid.Service\\StudentService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GuideService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\GuideService.cs",
-              "RelativeDocumentMoniker": "Solid.Service\\GuideService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Service\\GuideService.cs",
-              "RelativeToolTip": "Solid.Service\\GuideService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TrainingRepositories.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\TrainingRepositories.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\TrainingRepositories.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\TrainingRepositories.cs",
-              "RelativeToolTip": "Solid.Data\\Repositories\\TrainingRepositories.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ITrainingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\ITrainingRepository.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Repositories\\ITrainingRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\ITrainingRepository.cs",
-              "RelativeToolTip": "Solid.Core\\Repositories\\ITrainingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\IStudentRepository.cs",
-              "RelativeToolTip": "Solid.Core\\Repositories\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "StudentRepositories.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\StudentRepositories.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\StudentRepositories.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\Repositories\\StudentRepositories.cs",
-              "RelativeToolTip": "Solid.Data\\Repositories\\StudentRepositories.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBMAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IGuideRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\IGuideRepository.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IGuideRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Repositories\\IGuideRepository.cs",
-              "RelativeToolTip": "Solid.Core\\Repositories\\IGuideRepository.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAsAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IDataContextcs.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\IDataContextcs.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\IDataContextcs.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Data\\IDataContextcs.cs",
-              "RelativeToolTip": "Solid.Data\\IDataContextcs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "Solid.Core\\Mapping\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "GuideDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\GuideDTO.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\GuideDTO.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\GuideDTO.cs",
-              "RelativeToolTip": "Solid.Core\\DTOs\\GuideDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ApiMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Mapping\\ApiMappingProfile.cs",
-              "RelativeDocumentMoniker": "Solid.API\\Mapping\\ApiMappingProfile.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.API\\Mapping\\ApiMappingProfile.cs",
-              "RelativeToolTip": "Solid.API\\Mapping\\ApiMappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "TrainingDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\TrainingDTO.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\TrainingDTO.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\TrainingDTO.cs",
-              "RelativeToolTip": "Solid.Core\\DTOs\\TrainingDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "StudentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\StudentDTO.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\StudentDTO.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD \u05E9\u05E0\u05D4 \u05D1\\\u05D3\u05D5\u05D8\u05E0\u05D8\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E2\u05DC\u05D9\u05D5 \u05E2\u05D5\u05D1\u05D3\u05EA\\Solid-Gym\\Solid\\Solid.Core\\DTOs\\StudentDTO.cs",
-              "RelativeToolTip": "Solid.Core\\DTOs\\StudentDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-06T17:01:03.121Z"
             },
             {
               "$type": "Document",
